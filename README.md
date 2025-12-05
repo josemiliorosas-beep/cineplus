@@ -1,0 +1,2 @@
+# cineplus
+aplicación basica de cobro para un cine creadaen python con wxglade. consta de 4 ventanas: inicio de sesion
